@@ -26,6 +26,7 @@
 </body>
 </html>
 ```
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/79aacea3-022d-4160-8fc7-c773bd6465e9" />
 
 # Tahap 2 Menambahkan Navigation Bar
 ```html
@@ -70,6 +71,7 @@
 </body>
 </html>
 ```
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/9a65ad7a-2e58-4842-88cd-4c9403f44870" />
 
 # Tahap 3 Menambahkan Header/Jumbotron
 ```html
@@ -124,6 +126,7 @@
 </body>
 </html>
 ```
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/7ae8c77b-9ffd-4eeb-a97e-1cfc49faa605" />
 
 # Tahap 4: Menambahkan Konten Utama dan Sidebar
 ```html
@@ -237,6 +240,7 @@
 </body>
 </html>
 ```
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/1496bf9f-a6e5-4f8b-884d-15e15031a8c1" />
 
 # Tahap 5: Menambahkan Featurette dan Footer
 ```html
@@ -374,6 +378,7 @@
 </body>
 </html>
 ```
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/fd836eba-9ba8-457c-8a75-b07fd8d1002b" />
 
 **Penjelasan Setiap Tahap:**
   - Tahap 1: Struktur dasar HTML dengan impor Bootstrap 5
